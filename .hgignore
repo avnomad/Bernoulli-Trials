@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+Bernoulli Trials.opensdf
+Bernoulli Trials.sdf
+Bernoulli Trials.suo
